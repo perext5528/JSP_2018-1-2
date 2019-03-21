@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="doc">
+    <CLASSES />
+    <JAVADOC>
+      <root url="file://D:/JSP/cos-26Dec2008/doc" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://D:/JSP/cos-26Dec2008/src" />
+    </SOURCES>
+  </library>
+</component>

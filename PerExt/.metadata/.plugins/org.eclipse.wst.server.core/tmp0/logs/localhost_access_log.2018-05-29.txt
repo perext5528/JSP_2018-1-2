@@ -1,0 +1,17 @@
+127.0.0.1 - - [29/May/2018:12:09:19 +0900] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [29/May/2018:12:09:21 +0900] "GET /JSP_Chapter_03/board/BoardList.jsp HTTP/1.1" 500 2666
+0:0:0:0:0:0:0:1 - - [29/May/2018:12:11:24 +0900] "GET /JSP_Chapter_03/board/BoardList.jsp HTTP/1.1" 500 2666
+0:0:0:0:0:0:0:1 - - [29/May/2018:12:12:38 +0900] "GET /JSP_Chapter_03/board/BoardList.jsp HTTP/1.1" 500 2666
+127.0.0.1 - - [29/May/2018:12:12:51 +0900] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [29/May/2018:12:12:51 +0900] "GET /JSP_Chapter_03/board/BoardList.jsp HTTP/1.1" 500 2371
+0:0:0:0:0:0:0:1 - - [29/May/2018:12:48:00 +0900] "GET /JSP_Chapter_03/board/BoardList.jsp HTTP/1.1" 500 2371
+0:0:0:0:0:0:0:1 - - [29/May/2018:12:48:06 +0900] "GET /JSP_Chapter_03/board/BoardList.jsp HTTP/1.1" 200 1396
+0:0:0:0:0:0:0:1 - - [29/May/2018:12:48:06 +0900] "GET /JSP_Chapter_03/include/style.css HTTP/1.1" 200 436
+0:0:0:0:0:0:0:1 - - [29/May/2018:12:48:06 +0900] "GET /JSP_Chapter_03/include/scripts.js HTTP/1.1" 200 1798
+0:0:0:0:0:0:0:1 - - [29/May/2018:12:48:06 +0900] "GET /JSP_Chapter_03/images/btn_login.gif HTTP/1.1" 200 323
+0:0:0:0:0:0:0:1 - - [29/May/2018:12:48:06 +0900] "GET /JSP_Chapter_03/images/btn_idpw_srch.gif HTTP/1.1" 200 633
+0:0:0:0:0:0:0:1 - - [29/May/2018:12:48:06 +0900] "GET /JSP_Chapter_03/images/btn_be_member.gif HTTP/1.1" 200 565
+127.0.0.1 - - [29/May/2018:20:14:32 +0900] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [29/May/2018:20:14:33 +0900] "GET /JSP_Chapter_03/board/BoardList.jsp HTTP/1.1" 500 3889
+0:0:0:0:0:0:0:1 - - [29/May/2018:20:17:13 +0900] "GET /JSP_Chapter_03/board/BoardList.jsp HTTP/1.1" 500 3873
+0:0:0:0:0:0:0:1 - - [29/May/2018:20:17:30 +0900] "GET /JSP_Chapter_03/board/BoardList.jsp HTTP/1.1" 200 1402
